@@ -60,3 +60,14 @@ div.jumbotron {
 div.questions {
   padding: 0 20px 0 20px;
 }
+/*div.questions a.btn {
+  text-decoration: none;
+  color: #FFF;
+  background: blue;
+  border-radius: 5px;
+  padding: 20px;
+}*/
+div.questions h4 {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
